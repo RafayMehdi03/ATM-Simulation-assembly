@@ -1,1 +1,1 @@
-Hi ! This is a project for my Assembly Langauge Course. 
+Hi ! This is my project for an Assembly Langauge Course. 
